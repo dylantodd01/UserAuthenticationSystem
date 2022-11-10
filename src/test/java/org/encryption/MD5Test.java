@@ -1,3 +1,5 @@
+package org.encryption;
+
 import org.encryption.MD5;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
